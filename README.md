@@ -2,7 +2,7 @@
   Portfolio Website
 </h2>
 
-My personal portfolio <a href="https://sagarmude.netlify.app" target="_blank">ֆai Praֆad | Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://saiprasad-portfolio-8.netlify.app/" target="_blank">ֆai Praֆad | Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 ## Built With
 
