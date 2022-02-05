@@ -56,8 +56,7 @@ function Projects() {
             <ProjectCard
               imgPath={unichat}
               title="Car Care"
-              description="This is a real-time Web application build using React.js, node.js and Bootstrap .A Website help us to track the services provides to take care of your car at reasonable costs and afforabdable pricing for everyone .."
-              link="https://carcare-90.netlify.app/"
+              description="Car Care is a website developed with all neccessary features, as well as with authorization and authentication user can book an appointment for different types of car wash , as well as he can cancel his appointment if needed."
               link1="https://github.com/ankesai8/Car-Care-FrontEnd"
               link2="https://github.com/ankesai8/Car-Care-BackEnd"
             />
