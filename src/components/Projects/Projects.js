@@ -57,6 +57,7 @@ function Projects() {
               imgPath={unichat}
               title="Car Care"
               description="Car Care is a website developed with all neccessary features, as well as with authorization and authentication user can book an appointment for different types of car wash , as well as he can cancel his appointment if needed."
+              link="https://carcare-90.netlify.app/"
               link1="https://github.com/ankesai8/Car-Care-FrontEnd"
               link2="https://github.com/ankesai8/Car-Care-BackEnd"
             />
