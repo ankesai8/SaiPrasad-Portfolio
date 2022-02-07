@@ -73,7 +73,7 @@ function Projects() {
               link2="https://github.com/ankesai8/Blog-App-BackEnd"
              />
           </Col>
-                    dd photos<Col md={4} className="project-card">
+            <Col md={4} className="project-card">
             <ProjectCard
               imgPath={pollution}
               title="Weather-app"
