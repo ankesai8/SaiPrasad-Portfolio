@@ -30,15 +30,15 @@ function Projects() {
      Password : <strong className="purple">demo9989@test</strong>
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+            <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bookxchanger}
-              title="Online Book Store"
-              description="Online-Book-Store is place where you can buy your favorite books. It is built using MERN stack and Redux with payment gateway integrated. It has all the major features like Admin Dashboard, Shopping Cart, Order etc..."
-              link="https://book-store-9999.herokuapp.com/"
-              link1="https://github.com/ankesai8/Online-Book-Store/tree/main/frontend"
-              link2="https://github.com/ankesai8/Online-Book-Store/tree/main/backend"
-             />
+              imgPath={mysuru}
+              title="Recipe mealDb"
+              description="A Web Application which provide recipes to cook various dishes built using Node.js where a user can add, remove, update, and veiw recepies on youtube.."
+              link="https://mealdb-9989.netlify.app/"
+              link1="https://github.com/ankesai8/theMealDB-Recipe-Front-End"
+              link2="https://github.com/ankesai8/theMealDB-Recipe-Back-End"
+            />
           </Col>
 
           <Col md={4} className="project-card">
@@ -63,18 +63,17 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={mysuru}
-              title="Recipe mealDb"
-              description="A Web Application which provide recipes to cook various dishes built using Node.js where a user can add, remove, update, and veiw recepies on youtube.."
-              link="https://mealdb-9989.netlify.app/"
-              link1="https://github.com/ankesai8/theMealDB-Recipe-Front-End"
-              link2="https://github.com/ankesai8/theMealDB-Recipe-Back-End"
-            />
+              imgPath={bookxchanger}
+              title="Simple Blogger App"
+              description="Simple Blogger App is app  where you can write and publish  your favorites as blogs and photos It is built using MERN stack and js . It has all the major features like userDashboard,"
+              link="https://blog-app-088.netlify.app/"
+              link1="https://github.com/ankesai8/Blog-App-FrontEnd"
+              link2="https://github.com/ankesai8/Blog-App-BackEnd"
+             />
           </Col>
-
-          <Col md={4} className="project-card">
+                    dd photos<Col md={4} className="project-card">
             <ProjectCard
               imgPath={pollution}
               title="Weather-app"
@@ -84,6 +83,10 @@ function Projects() {
               link2="https://github.com/ankesai8/Weather-app"
             />
           </Col>
+
+        
+
+         
         </Row>
       </Container>
     </Container>
