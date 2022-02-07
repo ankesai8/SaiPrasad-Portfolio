@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import unichat from "../../Assets/Projects/unichat.png";
-import bookxchanger from "../../Assets/Projects/bookxchanger.jpg";
+import bookxchanger from "../../Assets/Projects/bookxchanger.png";
 import igt from "../../Assets/Projects/igt.jpg";
 import mysuru from "../../Assets/Projects/mysuru.png";
 import pollution from "../../Assets/Projects/pollution.png"; 
