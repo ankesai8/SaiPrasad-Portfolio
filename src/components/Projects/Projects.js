@@ -24,10 +24,10 @@ function Projects() {
           <strong className="purple">Demo credentials</strong> for Projects:
         </p>
         <p style={{ color: "white" }}>
-        Email : <strong className="purple">Demo@123.com</strong>
+        Email : <strong className="purple">demo9989test@gmail.com</strong>
         </p>
         <p style={{ color: "white" }}>
-     Password : <strong className="purple">Demo@123</strong>
+     Password : <strong className="purple">demo9989@test</strong>
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
