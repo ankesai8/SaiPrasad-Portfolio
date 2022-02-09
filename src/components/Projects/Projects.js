@@ -45,7 +45,7 @@ function Projects() {
             <ProjectCard
               imgPath={igt}
               title="Online Music Player"
-              description="Online Music Player is a real-time Web application  built with javascript and node.js and Bootstrap to make a Online Music application. A website where you can listen and enjoy songs, go through lyrics and create your own playlists and add your songs."
+              description="Online Music Player is a real-time Web application  built with javascript , node.js and Bootstrap. A website where you can listen and enjoy songs, go through lyrics and create your own playlists and add your songs."
                   link="https://music-player-008.netlify.app/login"
                   link1="https://github.com/ankesai8/Music-Player-FrontEnd"
                   link2="https://github.com/ankesai8/Music-Player-BackEnd"
