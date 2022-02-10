@@ -5,7 +5,7 @@ import Particle from "../Particle";
 
 import Type from "./Type";
 
-import ResumePdf from "../../Assets/RESUME - SAI.pdf";
+import ResumePdf from "../../Assets/RESUME 2022 Sai.pdf";
 import Button from "react-bootstrap/Button";
 import { AiOutlineDownload } from "react-icons/ai";
 
