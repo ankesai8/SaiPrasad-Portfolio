@@ -72,12 +72,12 @@ function Home2() {
             </ul>
           </Col>
         </Row>
-         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href={ResumePdf} target="_blank">
-            <AiOutlineDownload />
+         <Row style={{ justifyContent: "center", position: "relative"}}>
+          <Button variant="primary" a href="https://drive.google.com/file/d/1kObmw3XFkUhmUS9KKSPckLw6NjdWizW3/view" target="_blank" ><AiOutlineDownload />
             &nbsp;Resume
           </Button>
         </Row>
+        
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
