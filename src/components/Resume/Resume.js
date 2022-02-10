@@ -4,7 +4,6 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {AiFillGithub,AiOutlineTwitter,AiFillLinkedin } from "react-icons/ai";
 import { AiOutlineMail } from "react-icons/ai";
-import ResumePdf from "../../Assets/Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import Particle from "../Particle";
 import Button from "react-bootstrap/Button";
