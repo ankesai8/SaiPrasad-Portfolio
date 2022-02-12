@@ -35,7 +35,7 @@ function Projects() {
               imgPath={mysuru}
               title="Recipe mealDb"
               description="A Web Application which provide recipes to cook various dishes built using Node.js where a user can add, remove, update, and veiw recepies on youtube.."
-              link="https://mealdb-9989.netlify.app/"
+              link="https://mealdb-99.netlify.app/"
               link1="https://github.com/ankesai8/theMealDB-Recipe-Front-End"
               link2="https://github.com/ankesai8/theMealDB-Recipe-Back-End"
             />
