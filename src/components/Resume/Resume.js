@@ -72,7 +72,7 @@ function Home2() {
           </Col>
         </Row>
          <Row style={{ justifyContent: "center", position: "relative"}}>
-          <Button variant="primary" a href="https://drive.google.com/file/d/1kObmw3XFkUhmUS9KKSPckLw6NjdWizW3/view" target="_blank" ><AiOutlineDownload />
+          <Button variant="primary" a href="https://drive.google.com/file/d/1-nZEf8pPo62tsQPoz9dkQ4PHxHV93jQc/view?usp=sharing" target="_blank" ><AiOutlineDownload />
             &nbsp;Resume
           </Button>
         </Row>
