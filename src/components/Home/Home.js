@@ -29,7 +29,7 @@ function Home() {
               </div>
          
           <Row style={{ justifyContent: "center", position: "relative"}}>
-          <Button variant="primary" a href="https://drive.google.com/file/d/1aK-tPdYNqZgjIYcUrA1FZlFIbicAviYS/view" target="_blank" ><AiOutlineDownload />
+          <Button variant="primary" a href="https://drive.google.com/file/d/1mE_Gb4110lRG9HfQlBPQqND2h7y-hAWf/view?usp=sharing" target="_blank" ><AiOutlineDownload />
             &nbsp;Resume
           </Button>
         </Row>
