@@ -31,16 +31,7 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={pollution}
-              title="shopCity"
-              description="shopCity is a Online shopping website for mobiles where user can buy mobile Phones based on brands developed with all neccessary features, as well as with authorization and authentication"
-              link1="https://github.com/ankesai8/ShopCart-FrontEnd"
-              link="https://shop-cart-8.netlify.app/"
-              link2="https://github.com/ankesai8/ShopCart-BackEnd"
-            />
-          </Col>
+        
 
             <Col md={4} className="project-card">
             <ProjectCard
@@ -72,6 +63,17 @@ function Projects() {
               link="https://carcare-90.netlify.app/"
               link1="https://github.com/ankesai8/Car-Care-FrontEnd"
               link2="https://github.com/ankesai8/Car-Care-BackEnd"
+            />
+          </Col>
+
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pollution}
+              title="shopCity"
+              description="shopCity is a Online shopping website for mobiles where user can buy mobile Phones based on brands developed with all neccessary features, as well as with authorization and authentication"
+              link1="https://github.com/ankesai8/ShopCart-FrontEnd"
+              link="https://shop-cart-8.netlify.app/"
+              link2="https://github.com/ankesai8/ShopCart-BackEnd"
             />
           </Col>
 
