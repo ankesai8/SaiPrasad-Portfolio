@@ -30,6 +30,18 @@ function Projects() {
      Password : <strong className="purple">demo9989@test</strong>
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pollution}
+              title="shopCity"
+              description="shopCity is a Online shopping website for mobiles where user can buy mobile Phones based on brands developed with all neccessary features, as well as with authorization and authentication"
+              link1="https://github.com/ankesai8/ShopCart-FrontEnd"
+              link="https://shop-cart-8.netlify.app/"
+              link2="https://github.com/ankesai8/ShopCart-BackEnd"
+            />
+          </Col>
+
             <Col md={4} className="project-card">
             <ProjectCard
               imgPath={mysuru}
@@ -73,16 +85,8 @@ function Projects() {
               link2="https://github.com/ankesai8/Blog-App-BackEnd"
              />
           </Col>
-            <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={pollution}
-              title="Weather-app"
-              description="It is a  simple website  that fethes weather data fetching from the API and further climate of any city in the world."
-              link1="https://github.com/ankesai8/Weather-app"
-              link="https://weathertech-forecast-8.netlify.app/"
-              link2="https://github.com/ankesai8/Weather-app"
-            />
-          </Col>
+
+            
 
         
 
